@@ -1,6 +1,6 @@
 {
   "name": "koa-multer-v0",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "with 1.x koa",
   "main": "index.js",
   "scripts": {
